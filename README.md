@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Code Wars Badge](https://www.codewars.com/users/narimenmokrani1/badges/micro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87&layout=compact)](https://github.com/narimenmokrani1/github-readme-stats)
 
