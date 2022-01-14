@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <h1 align="center">Hi 👋, I'm Narimen Mokrani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Chicago</h3>
 
 - 📫 How to reach me **narimokmen95@gmail.com**
 
